@@ -12,6 +12,6 @@ int main()
 	cout << "3" << endl;
 	cout << "3" << endl;
 	cout << "4" << endl;
-	cout << "7" << endl;
+	cout << "8" << endl;
 	return 0;
 }
