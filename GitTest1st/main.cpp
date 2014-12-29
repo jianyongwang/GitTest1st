@@ -13,5 +13,11 @@ int main()
 	cout << "3" << endl;
 	cout << "4" << endl;
 	cout << "111" << endl;
+	cout << "1" << endl;
+	cout << "2" << endl;
+	cout << "3" << endl;
+	cout << "3" << endl;
+	cout << "4" << endl;
+	cout << "111" << endl;
 	return 0;
 }
